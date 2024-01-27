@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **safiulalamsarker@gmail.com**
 
-- ⚡ Fun fact **It's very hard for me sitting in computer desk for at least 12-14 hours. But I Love To do That Everyday.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-safiul-alam-s-406001137" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md-safiul-alam-s-406001137" height="30" width="40" /></a>
