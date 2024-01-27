@@ -11,7 +11,7 @@
 
 - 😄 Pronouns  ... He/Him/Sarker
 
-- 💬 Ask me about **Anything About Front End Web Development**
+- 💬 Ask me about **Anything About Web Development**
 
 - 📫 How to reach me **safiulalamsarker@gmail.com**
 
