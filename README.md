@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with AWS
 
-- 😄 Pronouns  ... He/Him/Sarker
-
 - 💬 Ask me about **Anything About Web Development**
 
 - 📫 How to reach me **safiulalamsarker@gmail.com**
