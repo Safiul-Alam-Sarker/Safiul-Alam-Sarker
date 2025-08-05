@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Design with JavaScript**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Cloud**
 
 - 👯 I’m looking to collaborate on **Everything About Front End**
 
