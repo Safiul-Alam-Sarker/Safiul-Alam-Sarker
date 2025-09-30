@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Safiul Alam Sarker</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
-- 🔭 I’m currently working on **Web Design with JavaScript**
+- 🔭 I’m currently working on **Full Stack Development Projects**
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **Docker & Cloud**
 
 - 👯 I’m looking to collaborate on **Everything About Front End**
 
